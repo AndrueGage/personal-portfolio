@@ -58,7 +58,7 @@ header {
 
 .projects {
     display: flex;
-    gap: 40px;
+    gap: 100px;
     justify-content: center;
 }
 
@@ -79,6 +79,13 @@ header {
     background-color: aquamarine;
 }
 
+.projects a:hover {
+    background-color: aliceblue;
+    color: grey;
+    opacity: 90%;
+    transform: scale(1.02);
+}
+
 a div {
     background-color: aquamarine;
     width: fit-content;
@@ -92,6 +99,7 @@ a div {
 section {
     padding: 0 15px;
 }
+
 
 #project-one {
     background-image: url(./digital-marketing-meeting.jpg);
