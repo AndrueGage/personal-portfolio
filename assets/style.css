@@ -108,6 +108,7 @@ a div p {
     word-break: keep-all;
     width: 75px;
     text-align: center;
+   
 }
 
 .navlist li {
@@ -127,6 +128,13 @@ a div p {
     justify-content: space-between;
 }
 
+.animate {
+    transition: all 0.3s ease-in-out;
+}
+
+.animate:hover {
+    transform: scale(1.02);
+}
 
 .projects a {
     filter: drop-shadow(5px 5px 10px #000000);
@@ -136,13 +144,6 @@ a div p {
     position: relative;
     color: white;
     background-color: rgb(54, 9, 54);
-    transition: all 0.3s ease-out;
-}
-
-.projects a:hover {
-    background-color: aliceblue;
-    color: white;
-    transform: scale(1.02);
 }
 
 a div {
@@ -182,10 +183,6 @@ section {
     justify-content: center;
     color: white
 }
-
-svg {
-    fill: white;
- }
 
 #project-one {
     background-image: url(./digital-marketing-meeting.jpg);
