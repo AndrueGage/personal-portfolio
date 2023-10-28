@@ -10,8 +10,10 @@ This is my website I created to display my own projects. I will continue to upda
 - [Contact](#contact)
   
 ## Preview
- 
+ ![image](https://github.com/AndrueGage/personal-portfolio/assets/147120878/c8f5f051-d117-4b5e-af1e-872a415303b0)
+![image](https://github.com/AndrueGage/personal-portfolio/assets/147120878/021c8b88-7905-47ac-8063-cc1ee86b1bb8)
 
+Visit the full website [here!](https://andruegage.github.io/personal-portfolio/)
 
 
 ## Contributing
