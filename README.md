@@ -5,7 +5,6 @@ This is my website I created to display my own projects. I will continue to upda
 ## Table of Contents
 
 - [Preview](#preview)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
   
